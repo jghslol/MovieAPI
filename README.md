@@ -1,5 +1,8 @@
 # API to interact with third party movie API
 
+Note that the link in the script to the third party API has been removed in app.py for privacy reasons
+so you cannot run the script - the project is for illustrative purposes.
+
 API that talks to third party movie API and returns data regarding movie searches.
 
 Requirements:
