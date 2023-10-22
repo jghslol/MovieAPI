@@ -3,7 +3,8 @@ import requests
 import time
 from db import user_accounts, user_activity, up_or_down_vote
 
-URL = "https://august12-uqf7jaf6ua-ew.a.run.app/movies"
+URL = # LINK TO  THIRD PARTY API HAS BEEN REMOVED FOR PRIVACY REASONS
+# - THE PROJECT IS FOR ILLUSTRATIVE PURPOSES
 
 app = Flask(__name__)
 
